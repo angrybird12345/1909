@@ -1,0 +1,2 @@
+def Jame():
+    print('Jame是个大sb')
